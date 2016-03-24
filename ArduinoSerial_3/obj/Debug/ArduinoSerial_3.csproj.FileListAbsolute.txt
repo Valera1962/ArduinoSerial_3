@@ -1,0 +1,10 @@
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\bin\Debug\ArduinoSerial_3.exe.config
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\bin\Debug\ArduinoSerial_3.exe
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\bin\Debug\ArduinoSerial_3.pdb
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.Properties.Resources.resources
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.ViewSerialPort.resources
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.csproj.GenerateResource.Cache
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.exe
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.pdb
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.ViewForm.resources
+D:\Dropbox\Proekt-VS15\ArduinoSerial_3\ArduinoSerial_3\obj\Debug\ArduinoSerial_3.csprojResolveAssemblyReference.cache
