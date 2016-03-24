@@ -24,6 +24,7 @@ namespace ArduinoSerial_3
         private void TimerOnElapsed(object sender, ElapsedEventArgs e)
         {
             var qq = 0;
+            var ww = 0;
         }
     }
 }
